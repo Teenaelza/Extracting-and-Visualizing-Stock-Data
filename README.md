@@ -1,4 +1,3 @@
 # Extracting-and-Visualizing-Stock-Data
 Analyzing Historical Stock/Revenue Data and Building a Dashboard
-
-<img width=“964” alt=“Screen shot” src=“https://github.com/Teenaelza/Extracting-and-Visualizing-Stock-Data/blob/main/FinalProject_python_webscaping.jpg”>
+![FinalProject_python_webscaping](https://user-images.githubusercontent.com/87797429/222831328-7d1c1946-687f-4984-87b1-518ec2364183.jpg)
